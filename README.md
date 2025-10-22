@@ -20,7 +20,7 @@ streaming-platform-analytics/
 │  ├─ SQL_Documentation.md           # Script-by-script explanation
 │  └─ REPORT_Short.md                # Condensed report + ERD overview
 ├─ tableau/
-│  ├─ dashboards.twbx                # (Add your packaged workbook here)
+│  ├─ dashboards.twbx                # Packaged Tableau Workbook
 │  └─ images/                        # Exported dashboard PNGs for README
 ├─ images/                           # ERD and diagram exports used in docs
 ├─ .gitignore
