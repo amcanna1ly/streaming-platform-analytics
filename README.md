@@ -28,7 +28,7 @@ streaming-platform-analytics/
 └─ README.md
 ```
 
-## Quickstart (Oracle)
+## Oracle SQL Developer - Quickstart
 1) Run the DDL to create tables:
 ```sql
 @sql/01_schema.sql
@@ -50,7 +50,7 @@ streaming-platform-analytics/
 
 Note: Scripts were authored for Oracle. For Postgres/SQLite, replace identity/merge syntax and LISTAGG equivalents.
 
-## Tableau (Portfolio)
+## Tableau
 
 #### Packaged workbook
 The packaged Tableau workbook is included at:
