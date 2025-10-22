@@ -81,7 +81,6 @@ In Tableau, point your data sources to these files for reproducibility. See `doc
 - If you publish on Tableau Public, add the link in this section.
 
 ### Screenshots
-Replace with your exported images:
 <p align="center">
   <img src="tableau/images/dashboard1.png" alt="Platform Overview" width="720">
 </p>
