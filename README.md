@@ -87,10 +87,6 @@ CSVs used for the Platform Overview dashboard are included in `/data`:
 - `titles_per_platform.csv`
 - `top10_by_platform.csv`
 
-In Tableau, point your data sources to these files for reproducibility. See `docs/DATA_DICTIONARY.md` for schema notes.
-- Add your packaged workbook (.twbx) to /tableau/dashboards.twbx
-- Export PNGs of your dashboards to /tableau/images/ and reference them below.
-- If you publish on Tableau Public, add the link in this section.
 
 ### Screenshots
 <p align="center">
