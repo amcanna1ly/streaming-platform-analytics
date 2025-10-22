@@ -20,7 +20,7 @@ streaming-platform-analytics/
 │  ├─ SQL_Documentation.md           # Script-by-script explanation
 │  └─ REPORT_Short.md                # Condensed report + ERD overview
 ├─ tableau/
-│  ├─ dashboards.twbx                # (Add your packaged workbook here)
+│  ├─ dashboards.twbx                # Packaged Tableau Workbook
 │  └─ images/                        # Exported dashboard PNGs for README
 ├─ images/                           # ERD and diagram exports used in docs
 ├─ .gitignore
@@ -81,7 +81,6 @@ In Tableau, point your data sources to these files for reproducibility. See `doc
 - If you publish on Tableau Public, add the link in this section.
 
 ### Screenshots
-Replace with your exported images:
 <p align="center">
   <img src="tableau/images/dashboard1.png" alt="Platform Overview" width="720">
 </p>
