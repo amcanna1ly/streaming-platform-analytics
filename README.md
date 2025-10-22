@@ -93,7 +93,12 @@ In Tableau, point your data sources to these files for reproducibility. See `doc
 The entity–relationship diagram (ERD) and relational schema define the core data model for the Streaming Platform Analytics project.  
 These documents describe the relationships among `TITLE`, `GENRE`, `PLATFORM`, and associated bridge tables.
 
-[View ERD and Relational Schema](docs/ERD_and_Relational_Schema.docx)
+<p align="center">
+  <img src="images/Streaming_Platform_ERD.png" alt="ER Diagram" width="720">
+</p>
+<p align="center">
+  <img src="images/Streaming_Platform_RelationalSchema.png" alt="Relational Schema" width="720">
+</p>
 
 ## Dataset credit
 Kaggle: Movies on Netflix, Prime Video, Hulu, and Disney+ by Ruchi Bhatia. Check license before redistribution.
