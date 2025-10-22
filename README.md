@@ -50,6 +50,18 @@ streaming-platform-analytics/
 
 Note: Scripts were authored for Oracle. For Postgres/SQLite, replace identity/merge syntax and LISTAGG equivalents.
 
+### Database Design
+
+The entity–relationship diagram (ERD) and relational schema define the core data model for the Streaming Platform Analytics project.  
+These documents describe the relationships among `TITLE`, `GENRE`, `PLATFORM`, and associated bridge tables.
+
+<p align="center">
+  <img src="images/Streaming_Platform_ERD.png" alt="ER Diagram" width="720">
+</p>
+<p align="center">
+  <img src="images/Streaming_Platform_RelationalSchema.png" alt="Relational Schema" width="720">
+</p>
+
 ## Tableau
 
 #### Packaged workbook
@@ -88,17 +100,6 @@ In Tableau, point your data sources to these files for reproducibility. See `doc
   <img src="tableau/images/dashboard2.png" alt="Ratings and Trends" width="720">
 </p>
 
-### Database Design
-
-The entity–relationship diagram (ERD) and relational schema define the core data model for the Streaming Platform Analytics project.  
-These documents describe the relationships among `TITLE`, `GENRE`, `PLATFORM`, and associated bridge tables.
-
-<p align="center">
-  <img src="images/Streaming_Platform_ERD.png" alt="ER Diagram" width="720">
-</p>
-<p align="center">
-  <img src="images/Streaming_Platform_RelationalSchema.png" alt="Relational Schema" width="720">
-</p>
 
 ## Dataset credit
 Kaggle: Movies on Netflix, Prime Video, Hulu, and Disney+ by Ruchi Bhatia. Check license before redistribution.
