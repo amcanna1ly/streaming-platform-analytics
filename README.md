@@ -89,6 +89,13 @@ Replace with your exported images:
   <img src="tableau/images/dashboard2.png" alt="Ratings and Trends" width="720">
 </p>
 
+### Database Design
+
+The entity–relationship diagram (ERD) and relational schema define the core data model for the Streaming Platform Analytics project.  
+These documents describe the relationships among `TITLE`, `GENRE`, `PLATFORM`, and associated bridge tables.
+
+[View ERD and Relational Schema](docs/ERD_and_Relational_Schema.docx)
+
 ## Dataset credit
 Kaggle: Movies on Netflix, Prime Video, Hulu, and Disney+ by Ruchi Bhatia. Check license before redistribution.
 
