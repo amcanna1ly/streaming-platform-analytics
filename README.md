@@ -96,4 +96,4 @@ Kaggle: Movies on Netflix, Prime Video, Hulu, and Disney+ by Ruchi Bhatia. Check
 MIT — see LICENSE.
 
 ## Author
-Alex McAnnally (The Commit Committee project)
+Alex McAnnally
